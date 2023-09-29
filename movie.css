@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+
+.parent{ 
+    width: 85%;
+    height: 600px;
+    /* background-color:white; */
+    position: relative;
+    left: 200px;
+    top: 45px;
+}
+.c{
+    height: 300px;
+    width: 200px;
+    border: 2px black solid;
+    position: absolute;
+    top: -20px;
+    
+
+}
+.c1{
+    background-color: chartreuse;
+    left: 30px;
+
+}
+.c2{
+    background-color: brown;
+    left: 330px;
+
+}
+.c3{
+    background-color:darkcyan;
+    left: 620px;
+
+}
+.c4{
+    background-color: darkmagenta;
+    left: 910px;
+
+}
+.m1{
+    height: 300px;
+    width: 200px;
+}
+.m2{
+    height: 300px;
+    width: 200px;
+}
+.m3{
+    height: 300px;
+    width: 200px;
+}
+.m4{
+    height: 300px;
+    width: 200px;
+}
+.h{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Croissant One', cursive; 
+    /* position: sticky;
+    left: 30px;
+    text-align: center; */
+    /* top: 0px; */
+    color: yellow;
+    left: 20px;
+   
+    
+}
+.t1{
+    margin-left: 33px;
+    color: white;
+    
+}
+.t2{
+    margin-left: 50px;
+    color: white;
+}
+
+.t3{
+    margin-left: 10px;
+    color: white;
+}
+
+.t4{
+    margin-left: 27px;
+    color: white;
+}
+p{
+    color:gray;
+}
+.parent2{
+    width: 0%;
+    height: 600px;
+    background-color:white;
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+.cc{
+    height: 30px;
+    width: 209px;
+    border: 1px gray solid;
+    position: absolute;
+    top: -119px;
+    left: 27px;
+    /* background-color: rgba(0, 0, 0, 0.489); */
+
+}
+.c5{
+    
+    left: 330px;
+
+}
+.c6{
+    
+    left: 340px;
+
+}
+.c7{
+    
+    left: 620px;
+
+}
+.c8{
+    
+    left: 910px;
+
+}
+i{
+    text-align: center;
+    margin-left:13px;
+    margin-top: 8px;
+   
+    
+}
+body{
+    background-color: black;
+    
+     
+     
+}
+h1{
+    margin-left: 44px;
+    margin-top: 14px;
+}
+.form{
+    margin-left: 900px;
+   margin-top: -54px;
+   
+}
+p{
+    margin-top: 45px;
+}
+#l1{
+    color: white;
+}
+#l2{
+    color: white;
+}
+#l3{
+    color: white;
+}
+/* .cl:hover{
+    background-color: blue;
+
+}
+.c2:hover{
+    background-color: blue;
+    
+}
+.c3:hover{
+    background-color: blue;
+    
+}
+.c4:hover{
+    background-color: blue;
+} */
